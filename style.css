@@ -1,0 +1,17 @@
+body{
+  text-align: cente;
+}
+p{
+  font-size: 14pt;
+}
+li{
+  text-allign: left;
+   font-size: 10pt;
+   padding-bottom: 5px
+}
+h1 {
+  color: purple;
+}
+h2{
+  padding-top: 50px;
+}
